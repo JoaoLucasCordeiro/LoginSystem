@@ -11,6 +11,11 @@ gap: 1.2rem;
 
 `
 
-export const Title = styled.h2``
+export const Title = styled.h2`
+
+color: #EEE;
+font-size: 2.7rem;
+
+`
 
 

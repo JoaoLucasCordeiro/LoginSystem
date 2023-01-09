@@ -41,7 +41,7 @@ const Signup = () => {
 
   return (
     <C.Container>
-      <C.Label>Login</C.Label>
+      <C.Label>Crie sua conta</C.Label>
       <C.Content>
         <Input type="email" placeholder="Digite seu E-mail" value={email} onChange={(e) => [setEmail(e.target.value), setError("")]} />
         <Input type="email" placeholder="Confime o  seu E-mail" value={emailConf} onChange={(e) => [setEmailConf(e.target.value), setError("")]} />
