@@ -37,7 +37,7 @@ color: #EEE;
 
 export const LabelError = styled.label`
 font-size: 0.9rem;
-color: red;
+color: orange;
 `
 
 export const Strong = styled.strong`
