@@ -11,7 +11,8 @@ const GlobalStyles = createGlobalStyle`
 body {
     width: 100vw;
     height: 100vh;
-    background-color: #13183F;
+    background: rgb(167,51,254);
+background: radial-gradient(circle, rgba(167,51,254,1) 0%, rgba(19,24,63,1) 75%);
     font-family: 'Roboto', sans-serif;
 }
 
